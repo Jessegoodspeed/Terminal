@@ -81,3 +81,13 @@ h3. PIPES - Allows to combine multiple commands that generate output
 | > [file.txt] | Push output to file, keep in mind it will get overwritten |
 | >> [file.txt] | Append output to existing file |
 | < | Tell command to read content from a fi |
+
+
+h3. HELP
+
+| command -h | Offers help |
+| command --help | Offers help |
+| command help | Offers help |
+| reset | Resets the terminal display |
+| man [command] | Show the help for 'command' |
+| whatis [command] | Gives a one-line description of 'command' |

@@ -1,5 +1,4 @@
-
-SHORTCUTS
+h3. SHORTCUTS
 
 {background:#ddd}. |_. Key/Command |_. Description |
 | Ctrl + A | Go to the beginning of the line you are currently typing on |
@@ -19,3 +18,23 @@ SHORTCUTS
 | Alt + F | Move cursor forward one word on the current line |
 | Alt + B | Move cursor backward one word on the current line |
 | Tab | Auto-complete files and folder names |
+
+
+h3. CORE COMMANDS
+-------------
+| cd | Home directory |
+| cd [folder] | Change directory |
+| cd ~ | Home directory, e.g. 'cd ~/folder/' |
+| cd / | Root of drive |
+| ls | Short listing |
+| ls -l | Long listing |
+| ls -a | List incl. hidden files |
+| ls -lh | Long listing with Human readable file sizes |
+| ls -R | Entire content of folder recursively |
+| sudo [command] | Run command with the security privileges of the superuser (Super User DO) |
+| open [file] | Opens a file ( as if you double clicked it ) |
+| top | Displays active processes. Press q to quit |
+| nano [file] | Opens the Terminal it's editor |
+| pico	[file] | Opens the Terminal it's editor |
+| q | Exit |
+| clear | Clear screen |

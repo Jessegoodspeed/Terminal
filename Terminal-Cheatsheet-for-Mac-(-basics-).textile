@@ -22,7 +22,6 @@ h3. SHORTCUTS
 
 h3. CORE COMMANDS
 
-
 | cd | Home directory |
 | cd [folder] | Change directory |
 | cd ~ | Home directory, e.g. 'cd ~/folder/' |

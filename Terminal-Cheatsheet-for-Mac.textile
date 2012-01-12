@@ -1,4 +1,3 @@
-
 h3. SHORTCUTS
 
 {background:#ddd}. |_. Key/Command |_. Description |
@@ -29,7 +28,7 @@ h3. CORE COMMANDS
 | cd / | Root of drive |
 | ls | Short listing |
 | ls -l | Long listing |
-| ls -a | List incl. hidden files |
+| ls -a | Listing incl. hidden files |
 | ls -lh | Long listing with Human readable file sizes |
 | ls -R | Entire content of folder recursively |
 | sudo [command] | Run command with the security privileges of the superuser (Super User DO) |
@@ -39,3 +38,11 @@ h3. CORE COMMANDS
 | pico	[file] | Opens the Terminal it's editor |
 | q | Exit |
 | clear | Clear screen |
+
+
+h3. COMMAND HISTORY
+
+| history n | Shows the stuff typed - add a number to limit the last n items |
+| ctrl-r | Interactively search through previously typed commands |
+| ![value] | Execute the last command typed that starts with 'value' |
+| !! | Execute the last command typed |

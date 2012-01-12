@@ -1,4 +1,5 @@
-h3. SHORTCUTS
+
+SHORTCUTS
 
 {background:#ddd}. |_. Key/Command |_. Description |
 | Ctrl + A | Go to the beginning of the line you are currently typing on |

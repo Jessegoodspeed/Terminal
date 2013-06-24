@@ -1,4 +1,4 @@
-h3. SHORTCUTS
+h3. ATALHOS
 
 {background:#ddd}. |_. Atalho |_. Descrição |
 | Ctrl + A | Ir para o início da linha em que você está digitando |
@@ -24,7 +24,7 @@ h3. COMANDOS PRINCIPAIS
 
 | cd | Diretório Home |
 | cd [pasta] | Muda o diretório |
-| cd ~ | Diretório Home, e.g. 'cd ~/pasta/' |
+| cd ~ | Diretório Home, ex.: 'cd ~/pasta/' |
 | cd / | Diretório raiz (root) |
 | ls | Lista os arquivos na pasta |
 | ls -l | Lista os arquivos de uma pasta no formato lista |

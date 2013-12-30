@@ -44,7 +44,7 @@ h3. COMANDOS DE HISTÓTICO
 
 | history n | Mostra os comandos digitados - Quantos históricos serão exibidos a partir do último comando |
 | ctrl-r | Permite pesquisar através de comandos usados ​​anteriormente |
-| ![value] | Execute o último comando digitado que começa com 'valor' |
+| ![valor] | Execute o último comando digitado que começa com 'valor' |
 | !! | Execute o último comando digitado |
 
 
@@ -52,9 +52,10 @@ h3. MANIPULANDO ARQUIVOS
 
 | touch [arquivo] | Cria um novo arquivo |
 | pwd | Caminho completo para o diretório de trabalho |
-| | 'ls -l ..' 	= Lista completa do diretório pai |
-| | 'cd ../../' = Move dois niveis acima |
-| . | Pasta atual |
+| ls -l | Lista completa do diretório pai |
+| cd ../../ | Move dois niveis acima |
+| cd . | Pasta atual |
+| cd .. | Voltar uma pasta |
 | cat | Concatenar as telas |
 | rm [arquivos] | Apaga arquivos, ex.: rm [arquivo] [arquivo] |
 | rm -i [arquivo] | Deletar com comfirmação |

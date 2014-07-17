@@ -40,9 +40,11 @@ h3. COMMAND HISTORY
 
 | history n | Shows the stuff typed - add a number to limit the last n items |
 | ctrl-r | Interactively search through previously typed commands |
+| esc-. | Use last argument of previous command |
+| !$ | Last argument of previous command |
+| !* | All arguments of previous command |
 | ![value] | Execute the last command typed that starts with 'value' |
 | !! | Execute the last command typed |
-
 
 h3. FILE MANAGEMENT
 

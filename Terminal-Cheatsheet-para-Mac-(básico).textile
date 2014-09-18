@@ -77,7 +77,7 @@ h3. MANIPULANDO DIRETÓRIOS
 
 h3. PIPES - permite combinar vários comandos que geram saída
 
-| > [arquivo] | Gera um novo arquivos, lembrando que ela por ser sub-escrevida |
+| > [arquivo] | Gera um novo arquivos, lembrando que ela pode ser sobrescrita |
 | >> [arquivo] | Adiciona a saida ao arquivos |
 
 

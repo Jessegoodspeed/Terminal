@@ -91,4 +91,5 @@ h3. AJUDA
 | whatis [comando] | Dá uma descrição de uma linha de 'comando' |
 
 h3. COMANDOS PARA GIT
+
 | [comando] git init | Inicia um projeto git na pasta atual. |

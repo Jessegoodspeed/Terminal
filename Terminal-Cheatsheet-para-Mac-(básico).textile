@@ -89,3 +89,6 @@ h3. AJUDA
 | reset | Reseta sua tela atual no terminal |
 | man [comando] | Exibe ajuda para o seu 'comando' |
 | whatis [comando] | Dá uma descrição de uma linha de 'comando' |
+
+h3. COMANDOS PARA GIT
+| [comando] git init | Inicia um projeto git na pasta atual. |

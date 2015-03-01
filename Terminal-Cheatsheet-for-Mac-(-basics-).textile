@@ -34,8 +34,8 @@ h3. CORE COMMANDS
 | sudo [command] | Run command with the security privileges of the superuser (Super User DO) |
 | open [file] | Opens a file ( as if you double clicked it ) |
 | top | Displays active processes. Press q to quit |
-| nano [file] | Opens the Terminal it's editor |
-| pico	[file] | Opens the Terminal it's editor |
+| nano [file] | Opens the Terminal its editor |
+| pico	[file] | Opens the Terminal its editor |
 | q | Exit |
 | clear | Clear screen |
 

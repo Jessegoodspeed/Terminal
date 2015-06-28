@@ -15,8 +15,8 @@ h3. ATALHOS
 | Ctrl + K | Apague a linha após o cursor |
 | Ctrl + T | Troque os dois últimos caracteres antes do cursor |
 | Esc + T | Troque as duas últimas palavras antes do cursor |
-| Alt + F | Mover o cursor uma palavra para frente na linha atual |
-| Alt + B | Move cursor backward one word on the current line |
+| Ctrl + F | Mover o cursor uma palavra para frente na linha atual |
+| Ctrl + B | Move cursor backward one word on the current line |
 | Tab | Auto-Completar de comandos e nomes de arquivos. |
 
 

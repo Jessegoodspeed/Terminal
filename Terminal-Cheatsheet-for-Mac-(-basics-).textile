@@ -14,9 +14,11 @@ h3. SHORTCUTS
 | Ctrl + W | Delete the word before the cursor |
 | Ctrl + K | Clear the line after the cursor |
 | Ctrl + T | Swap the last two characters before the cursor |
+| Ctrl + F | Move cursor one character forward |
+| Ctrl + B | Move cursor one character backward |
+| Esc + F | Move cursor one word forward |
+| Esc + B | Move cursor one word backward |
 | Esc + T | Swap the last two words before the cursor |
-| Alt + F | Move cursor forward one word on the current line |
-| Alt + B | Move cursor backward one word on the current line |
 | Tab | Auto-complete files and folder names |
 
 
